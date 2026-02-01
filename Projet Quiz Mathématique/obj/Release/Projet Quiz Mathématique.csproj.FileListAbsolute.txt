@@ -1,0 +1,8 @@
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\bin\Release\Projet Quiz Mathématique.exe.config
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\bin\Release\Projet Quiz Mathématique.exe
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\bin\Release\Projet Quiz Mathématique.pdb
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\obj\Release\Projet Quiz Mathématique.csproj.AssemblyReference.cache
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\obj\Release\Projet Quiz Mathématique.csproj.CoreCompileInputs.cache
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\obj\Release\Projet Quiz Mathématique.exe
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\obj\Release\Projet Quiz Mathématique.pdb
+C:\Users\Mohamed\source\repos\Projet Quiz Mathématique\Projet Quiz Mathématique\obj\Release\Projet Quiz Mathématique.exe.config
